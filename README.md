@@ -9,7 +9,7 @@ It has many useful tools for creating a new PCB, see Features section.
 
 ## Features:
 
-* **Small form factor** (100x32 mm). 100 mm is the upper limit for very cheap manufacturing on many PCB fab stores. Also, being this size helps carrying it on any pocket or pencil case.
+* **Small form factor** (100x32 mm). 100 mm is the upper limit for very cheap manufacturing on many PCB fab stores. Also, being this size helps carrying it on any pocket or pencil case :nerd_face:.
 * **Transistor symbols**: BJT and MOSFET.
 * **Common packages/footprints:**
     * **Capacitors/resistances/diodes** (C/R/diode), with its measures (in mm and inch) and its power (in mW).
@@ -20,8 +20,8 @@ It has many useful tools for creating a new PCB, see Features section.
 * Common **pin pitches**: 1.0 mm, 1.27 mm, 2.0 mm, 2.54 mm, labeled with also its equivalences in inches.
 * A table of the **Resistor Color Code**.
 * A table of different **trace widths** and the corresponding **vias** (only above 12 mil). Also, the maximum current for each width, for temperatures of 10 °C and 50 °C.
-* A lot of **artwork** covering all the empty spaces, mostly as traces with only artistic purpose, but also a few fiducials and test points. See for yourself.
-* A **link** to [this page](https://github.com/tuxey/PCBruler) (unfortunately, the link on the PCB ruler is not clickable! :sweat_smile:).
+* A lot of **artwork** covering all the empty spaces, mostly as traces with only artistic purpose, but also a few fiducials and test points. See for yourself .
+* A **link** to [this page](https://github.com/tuxey/PCBruler) (unfortunately, the link on the PCB ruler is not clickable! :hand_over_mouth:).
 * Some **logos** also covering the empty spaces.
 * Based on **[JBtronics' work](https://github.com/jbtronics/PCBruler)**.
 * Licensed under **[Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**.
