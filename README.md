@@ -19,7 +19,7 @@ It has many useful tools for creating a new PCB, see Features section.
 * A table of the **Resistor Color Code**.
 * A table of different **trace widths** and the corresponding **vias** (only above 12 mil). Also, the maximum current for each width, for temperatures of 10 °C and 50 °C.
 * A lot of **artwork** covering all the empty spaces, mostly as traces with only artistic purpose, but also a few fiducials and test points. See for yourself.
-* A **link** to [this page](https://github.com/tuxey/PCBruler) (unfortunately, the link on the PCB ruler is not clickable! :smile:).
+* A **link** to [this page](https://github.com/tuxey/PCBruler) (unfortunately, the link on the PCB ruler is not clickable! :sweat_smile:).
 * Some **logos** also covering the empty spaces.
 * Based on **[JBtronics' work](https://github.com/jbtronics/PCBruler)**.
 * Licensed under **[Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**.
