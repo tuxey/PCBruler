@@ -4,6 +4,8 @@ A **small PCB ruler** (100x32x1.6 mm) made with [KiCAD](https://kicad-pcb.org/).
 It has a **milimiter ruler** both sides, a 1/8 **inch ruler** front side and a 1/10 inch ruler back side.
 It has many useful tools for creating a new PCB, see Features section.
 
+![Front](https://raw.githubusercontent.com/tuxey/PCBruler/master/pics/front_small.png)
+
 
 ## Features:
 
