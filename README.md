@@ -7,8 +7,7 @@ It has many useful tools for creating a new PCB, see Features section.
 
 ## Features:
 
-* **Small form factor** (100x32 mm). The 100 mm are the upper limit on many PCB fab stores for very cheap manufacturing. Also,
-being this size helps carrying it on any pocket or pencil case.
+* **Small form factor** (100x32 mm). 100 mm is the upper limit for very cheap manufacturing on many PCB fab stores. Also, being this size helps carrying it on any pocket or pencil case.
 * **Transistor symbols**: BJT and MOSFET.
 * **Common packages/footprints:**
     * **Capacitors/resistances/diodes** (C/R/diode), with its measures (in mm and inch) and its power (in mW).
